@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         test
 // @namespace    unrival
-// @version      3.6
+// @version      4.6
 // @description  ▶▶▶上次更新：2024.05.29◀◀◀【💻可最小化💻】🆒支持超星视频、文档、答题、自定义正确率、掉线自动登录🤘取消视频文件加载，多开也不占用网速，放心追剧🍊自定义答题正确率，提高学习效率🍆每日功能测试，在发现问题前就解决问题，防清进度，无不良记录
 // @author       unrival
 // @run-at       document-end
